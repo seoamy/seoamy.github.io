@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import styled from "styled-components";
 import { Element } from "react-scroll";
 import { css } from "emotion";
+import LinkIcons from "./LinkIcons";
 
 const Container = styled("div")`
   display: flex;
@@ -56,20 +57,16 @@ export default class Navbar extends React.Component {
             <StyledLink to="/">Home</StyledLink>
           </LinkBox>
           <LinkBox>
-            <StyledLink to="/resume">Resume</StyledLink>
+            <StyledLink to="/experience">Experience</StyledLink>
           </LinkBox>
           <LinkBox>
             <StyledLink to="/projects">Projects</StyledLink>
           </LinkBox>
           <LinkBox>
-            <StyledLink to="/music">Music</StyledLink>
-          </LinkBox>
-          <LinkBox>
-            <StyledLink to="/photography">Photography</StyledLink>
           </LinkBox>
           <DummyFiller />
           <RightLinkBox>
-            <StyledLink to="/contact">Contact Me!</StyledLink>
+            <LinkIcons />
           </RightLinkBox>
         </Container>
       </Element>

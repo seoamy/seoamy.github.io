@@ -30,22 +30,7 @@ export default class Landing extends React.Component {
         }}
       >
         <Container>
-          <ReactPlayer
-            url="https://www.youtube.com/watch?v=kCetJylD614&feature=youtu.be"
-            playing="true"
-            loop="true"
-            config={{
-              youtube: {
-                playerVars: {
-                  controls: 0,
-                  disablekb: 0
-                }
-              }
-            }}
-            width={3000}
-            height={1687}
-            overflow="hidden"
-          />
+          <img src={require("../assets/personal-landing.png")} />
         </Container>
       </div>
     );

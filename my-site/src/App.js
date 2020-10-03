@@ -16,13 +16,13 @@ function App() {
         <Navbar />
         <Switch>
           <Route exact path="/">
-            <Landing></Landing>
+            <Landing />
           </Route>
           <Route exact path="/experience">
-            <Experience></Experience>
+            <Experience />
           </Route>
           <Route exact path="/projects">
-            <Projects></Projects>
+            <Projects />
           </Route>
         </Switch>
       </Router>

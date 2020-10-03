@@ -3,11 +3,15 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import { BrowserRouter } from "react-router-dom";
+
+const PUBLIC_URL = "seoamy.github.io";
 
 ReactDOM.render(
-  <React.StrictMode>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <App />
-  </React.StrictMode>,
+  </BrowserRouter>,
+
   document.getElementById('root')
 );
 

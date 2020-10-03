@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/seoamy/seoamy.github.io/static/css/main.f041c395.chunk.css",
+    "main.js": "/seoamy/seoamy.github.io/static/js/main.3469af7a.chunk.js",
+    "main.js.map": "/seoamy/seoamy.github.io/static/js/main.3469af7a.chunk.js.map",
+    "runtime-main.js": "/seoamy/seoamy.github.io/static/js/runtime-main.9a890eda.js",
+    "runtime-main.js.map": "/seoamy/seoamy.github.io/static/js/runtime-main.9a890eda.js.map",
+    "static/js/2.1f661142.chunk.js": "/seoamy/seoamy.github.io/static/js/2.1f661142.chunk.js",
+    "static/js/2.1f661142.chunk.js.map": "/seoamy/seoamy.github.io/static/js/2.1f661142.chunk.js.map",
+    "index.html": "/seoamy/seoamy.github.io/index.html",
+    "precache-manifest.49fa14ea90c8fb752dbde91d3c45c30b.js": "/seoamy/seoamy.github.io/precache-manifest.49fa14ea90c8fb752dbde91d3c45c30b.js",
+    "service-worker.js": "/seoamy/seoamy.github.io/service-worker.js",
+    "static/css/main.f041c395.chunk.css.map": "/seoamy/seoamy.github.io/static/css/main.f041c395.chunk.css.map",
+    "static/js/2.1f661142.chunk.js.LICENSE.txt": "/seoamy/seoamy.github.io/static/js/2.1f661142.chunk.js.LICENSE.txt",
+    "static/media/bruinbridge.png": "/seoamy/seoamy.github.io/static/media/bruinbridge.ade78818.png",
+    "static/media/delivery.png": "/seoamy/seoamy.github.io/static/media/delivery.d534a43c.png",
+    "static/media/email.png": "/seoamy/seoamy.github.io/static/media/email.efc64300.png",
+    "static/media/github.png": "/seoamy/seoamy.github.io/static/media/github.8f927de5.png",
+    "static/media/instapark.png": "/seoamy/seoamy.github.io/static/media/instapark.ab15f34f.png",
+    "static/media/kontagion.png": "/seoamy/seoamy.github.io/static/media/kontagion.f074d495.png",
+    "static/media/linkedin.png": "/seoamy/seoamy.github.io/static/media/linkedin.543a42f2.png",
+    "static/media/personal-landing.png": "/seoamy/seoamy.github.io/static/media/personal-landing.ca7e6592.png",
+    "static/media/playmsg.png": "/seoamy/seoamy.github.io/static/media/playmsg.36c44f6c.png",
+    "static/media/yt.png": "/seoamy/seoamy.github.io/static/media/yt.b4be4343.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a890eda.js",
+    "static/js/2.1f661142.chunk.js",
+    "static/css/main.f041c395.chunk.css",
+    "static/js/main.3469af7a.chunk.js"
+  ]
+}

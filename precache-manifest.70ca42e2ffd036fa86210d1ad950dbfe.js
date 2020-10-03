@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63cb3f64afbb2ebe239849910fb35550",
+    "revision": "dd7102280e5229c8484fc315718b1e22",
     "url": "/index.html"
   },
   {
-    "revision": "a9aa027a60380eea79b7",
-    "url": "/static/css/main.f041c395.chunk.css"
+    "revision": "4eecf31b0ca88e4a8fa5",
+    "url": "/static/css/main.9333c468.chunk.css"
   },
   {
-    "revision": "8155da7607a42d707b8f",
-    "url": "/static/js/2.d86bfa82.chunk.js"
+    "revision": "5b6ff15eed5d00cc083e",
+    "url": "/static/js/2.717d1704.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.d86bfa82.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.717d1704.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9aa027a60380eea79b7",
-    "url": "/static/js/main.d2d03e49.chunk.js"
+    "revision": "4eecf31b0ca88e4a8fa5",
+    "url": "/static/js/main.c298e861.chunk.js"
   },
   {
     "revision": "c21fe37de23a3f68f6e0",
@@ -28,12 +28,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bruinbridge.ade78818.png"
   },
   {
+    "revision": "af7ce6150647187532b1fcbb37ef7f95",
+    "url": "/static/media/covid-stories.af7ce615.png"
+  },
+  {
     "revision": "d534a43c37cfcd8846af9d1140297e80",
     "url": "/static/media/delivery.d534a43c.png"
   },
   {
     "revision": "efc64300cfe7eb1fb0840b673d80572a",
     "url": "/static/media/email.efc64300.png"
+  },
+  {
+    "revision": "25cbab868f4cc66d0c80caba06a1dfb7",
+    "url": "/static/media/enterprise.25cbab86.png"
   },
   {
     "revision": "8f927de54490916b38439880951d5c2f",
@@ -48,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/kontagion.f074d495.png"
   },
   {
-    "revision": "543a42f2802ef304739f6272cc76165f",
-    "url": "/static/media/linkedin.543a42f2.png"
+    "revision": "09702a418a689b631728a64c05b21677",
+    "url": "/static/media/landing-1.09702a41.png"
   },
   {
-    "revision": "ca7e6592d45e0b1896082e9299825e5b",
-    "url": "/static/media/personal-landing.ca7e6592.png"
+    "revision": "543a42f2802ef304739f6272cc76165f",
+    "url": "/static/media/linkedin.543a42f2.png"
   },
   {
     "revision": "36c44f6c7a5652805bfc9a6c57f28f5e",

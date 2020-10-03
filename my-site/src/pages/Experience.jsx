@@ -37,6 +37,7 @@ const Container = styled("div")`
   justify-content:center;
   align-items: center;
   flex-direction: column;
+  padding-bottom: 2em;
 `;
 
 const CompanyName = styled("div")`

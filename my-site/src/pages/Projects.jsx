@@ -2,12 +2,21 @@ import React from "react";
 import ProjectCard from "../components/projectCard";
 import styled from "styled-components";
 
+const AllContainer = styled("div")`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-direction: column;
+  padding-bottom: 4em;
+`;
+
 const Container = styled("div")`
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: row;
-  width: 100%;
+  width: 75%;
   flex-wrap: wrap;
 `;
 
@@ -16,13 +25,13 @@ const PageTitle = styled("div")`
   font-family: 'Manrope', sans-serif;
   display: flex;
   justify-content: center;
-  padding-bottom: 6vh;
+  padding-bottom: 3vh;
 `;
 
 export default class Projects extends React.Component {
   render() {
     return (
-      <div>
+      <AllContainer>
         <PageTitle>Projects</PageTitle>
         <Container>
           <ProjectCard
@@ -61,7 +70,7 @@ export default class Projects extends React.Component {
             description="Delivery Navigator, inspired by Uber Eats delivery service, was a C++ project for CS32.  I built my own hash map and used BFS with a queue to calculate the delivery route."
           ></ProjectCard>
         </Container>
-      </div>
+        </AllContainer>
     )
   }
 }

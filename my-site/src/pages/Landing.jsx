@@ -8,14 +8,15 @@ const Container = styled("div")`
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: 100%;
+  padding-bottom: 5em;
+  padding-top: 5em;
   ${mobile} {
     flex-direction: column;
   }
 `;
 
 const Image = styled("img")`
-  width: 35%;
+  width: 30%;
 `;
 
 const Heading = styled("div")`
@@ -23,11 +24,19 @@ const Heading = styled("div")`
   font-weight: 700;
   font-family: 'Manrope', sans-serif;
   color: black;
-  padding-bottom: 6vh;
+  padding-bottom: 1vh;
   ${mobile} {
     font-size: 1.75em;
     padding-bottom: 1.5vh;
   }
+`;
+
+const SubHeading = styled("div")`
+font-size: 2.5em;
+font-weight: 600;
+font-family: 'Manrope', sans-serif;
+color: #E88582;
+padding-bottom: 2vh;
 `;
 
 const AboutMe = styled("div")`
@@ -49,6 +58,7 @@ export default class Landing extends React.Component {
         <Image src={require("../assets/landing-1.png")} />
         <TextContainer>
           <Heading>Hi, I'm Amy!</Heading>
+          <SubHeading>Creator. Learner. Software Engineer.</SubHeading>
           <AboutMe>I'm a second-year computer science student at UCLA. I'm interested in web and mobile development because of how creative you can be with it.</AboutMe>
           <AboutMe>In my free time I enjoy baking baking, photography, and designing.</AboutMe>
           <AboutMe>Please feel free to contact me about anything :)</AboutMe>

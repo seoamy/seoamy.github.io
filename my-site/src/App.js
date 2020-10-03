@@ -26,7 +26,10 @@ function App() {
           </Route>
         </Switch>
       </Router>
+      <div className="footer">Made with ♡ by Amy</div>
     </div>
+
+
   );
 }
 

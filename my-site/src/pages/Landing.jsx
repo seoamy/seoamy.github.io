@@ -22,13 +22,7 @@ const Container = styled("div")`
 export default class Landing extends React.Component {
   render() {
     return (
-      <div
-        style={{
-          backgroundColor: "#FCEAC8",
-          width: "100%",
-          height: "100vh"
-        }}
-      >
+      <div>
         <Container>
           <img src={require("../assets/personal-landing.png")} />
         </Container>

@@ -5,6 +5,7 @@ import { ReactRouterGlobalHistory } from "react-router-global-history";
 import Landing from "./pages/Landing";
 import Projects from "./pages/Projects";
 import Experience from "./pages/Experience";
+import styled from "styled-components";
 import "./App.css"
 
 function App() {

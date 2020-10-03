@@ -22,11 +22,7 @@ const PageTitle = styled("div")`
 export default class Projects extends React.Component {
   render() {
     return (
-      <div style={{
-        backgroundColor: "#FCEAC8",
-        width: "100%",
-        height: "100vh"
-      }}>
+      <div>
         <PageTitle>Projects</PageTitle>
         <Container>
           <ProjectCard

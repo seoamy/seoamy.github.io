@@ -4,6 +4,7 @@ import styled from "styled-components";
 const RowDiv = styled("div")`
     display: flex;
     flex-direction: row;
+    padding-right: 6vh;
 `;
 
 const IconLink = styled("img")`

@@ -10,8 +10,8 @@ const Container = styled("div")`
   width: 100%;
   height: 100%;
   flex-direction: right;
-  padding-left: 20px;
-  background-color: #fceac8;
+  padding-left: 4vh;
+  background-color: #FCEAC8;
 `;
 
 const StyledLink = styled(Link)`
@@ -20,6 +20,8 @@ const StyledLink = styled(Link)`
   font-family: "Open Sans";
   text-decoration: none;
   transition: 0.25s all ease;
+  color: black;
+  font-weight: 500;
   padding-right: 30px;
   &:hover {
     font-size: 22px;
@@ -31,9 +33,8 @@ const DummyFiller = styled("div")`
 `;
 
 const LinkBox = styled("div")`
-  height: 100%;
-  text-align: center;
-  margin: 15px;
+  display: flex;
+  align-items: center;
 `;
 
 const RightLinkBox = styled(LinkBox)`

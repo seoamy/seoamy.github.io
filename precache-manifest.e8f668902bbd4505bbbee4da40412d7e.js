@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b3af1a7a4b33fc4ba338e2c62cbb843",
+    "revision": "b1c9339f6c0834e9b3cb76c2e4de591a",
     "url": "/seoamy/seoamy.github.io/index.html"
   },
   {
-    "revision": "19be2198d92733ad0acb",
+    "revision": "f6a07c3b6652fa9006f5",
     "url": "/seoamy/seoamy.github.io/static/css/main.f041c395.chunk.css"
   },
   {
-    "revision": "cc8b48a081e86ec1bb48",
-    "url": "/seoamy/seoamy.github.io/static/js/2.1f661142.chunk.js"
+    "revision": "adc316ed69daea6b03d6",
+    "url": "/seoamy/seoamy.github.io/static/js/2.1445db69.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/seoamy/seoamy.github.io/static/js/2.1f661142.chunk.js.LICENSE.txt"
+    "url": "/seoamy/seoamy.github.io/static/js/2.1445db69.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19be2198d92733ad0acb",
-    "url": "/seoamy/seoamy.github.io/static/js/main.3469af7a.chunk.js"
+    "revision": "f6a07c3b6652fa9006f5",
+    "url": "/seoamy/seoamy.github.io/static/js/main.4f111816.chunk.js"
   },
   {
     "revision": "bec54fc8eabb39bcfe82",

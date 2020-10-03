@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/seoamy/seoamy.github.io/precache-manifest.49fa14ea90c8fb752dbde91d3c45c30b.js"
+  "/seoamy/seoamy.github.io/precache-manifest.e8f668902bbd4505bbbee4da40412d7e.js"
 );
 
 self.addEventListener('message', (event) => {

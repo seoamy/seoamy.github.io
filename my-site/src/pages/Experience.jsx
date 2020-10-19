@@ -91,13 +91,24 @@ export default class Experience extends React.Component {
       <div>
         <Container>
           <PageTitle>Experience</PageTitle>
-          <a href="https://drive.google.com/file/d/1pByol-n_zAt0AqwFuT0OsA2WA9gJZjUR/view?usp=sharing" target="_blank">
+          <a href="https://drive.google.com/file/d/11xSm-p2q7LNu4oJHwFG3OqWG6XREu4cb/view?usp=sharing target=_blank">
             <ResumeButton><Paperclip size="25"></Paperclip>{"  "}PDF Version</ResumeButton>
           </a >
           <ExperienceContainer>
+            <CompanyName>UCLA DevX</CompanyName>
+            <Role>Product Manager</Role>
+            <Date>Oct 2020 - Present</Date>
+            <Description>Ideated the vision for InstaPark, an iOS app where users can lend and rent private parking spaces.</Description>
+            <Description>- Currently leading the development of the product by recruiting skilled team members, organizing a timeline of the project,
+and delegating tasks to each member. </Description>
+            <Description>- Designed a complete prototype on Figma, including fonts, color palettes, and the user experience </Description>
+            <Description>- Created schema of data structures and wrote classes for each query object in Swift.</Description>
+          </ExperienceContainer>
+
+          <ExperienceContainer>
             <CompanyName>Lyftly</CompanyName>
             <Role>Software Engineer Intern</Role>
-            <Date>Sep 2020 - Present</Date>
+            <Date>Sep - Oct 2020</Date>
             <Description>As a front-end intern, I helped build our community forum to increase support for our users.
 I built the commenting feature with React.js, MaterialUI, and Redux. I implemented the live community list by using our custom-built Lyftly backend API via Axios. I initiated UI design changes and constantly communicated with our product manager and designer.</Description>
           </ExperienceContainer>
@@ -105,7 +116,7 @@ I built the commenting feature with React.js, MaterialUI, and Redux. I implement
           <ExperienceContainer>
             <CompanyName>Daily Bruin</CompanyName>
             <Role>Software Engineer Intern</Role>
-            <Date>Jan - Jun 2020</Date>
+            <Date>Jan - Oct 2020</Date>
             <Description>As a front-end intern, I created interactive and responsive websites for UCLA’s student-run newspaper using React.js and CSS.</Description>
             <Description>Projects:</Description>
             <Description>

@@ -50,7 +50,7 @@ export default class Projects extends React.Component {
           ></ProjectCard>
           <ProjectCard
             img={require("../assets/instapark.png")}
-            link="https://github.com/seoamy"
+            link="https://github.com/ucladevx/InstaPark-ios"
             languages={["Swift", "Firebase"]}
             title="InstaPark"
             description="InstaPark, inspired by Airbnb, is an iOS app for users to lend and rent their private parking spots."

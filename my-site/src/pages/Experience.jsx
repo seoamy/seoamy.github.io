@@ -91,9 +91,30 @@ export default class Experience extends React.Component {
       <div>
         <Container>
           <PageTitle>Experience</PageTitle>
-          <a href="https://drive.google.com/file/d/11xSm-p2q7LNu4oJHwFG3OqWG6XREu4cb/view?usp=sharing target=_blank">
+          <a href="https://drive.google.com/file/d/1bpkOmlrsFDEiU-Qy0CwvZR-T17Vs1U1R/view?usp=sharing target=_blank">
             <ResumeButton><Paperclip size="25"></Paperclip>{"  "}PDF Version</ResumeButton>
           </a >
+          <ExperienceContainer>
+            <CompanyName>Better.com</CompanyName>
+            <Role>Software Engineer Intern, Internal Efficiency Team</Role>
+            <Date>Jun - Aug 2021</Date>
+            <Description>- Added an api-testing module for our internal ticket service</Description>
+            <Description>- Increased test coverage of internal ticket service with robust end to end (e2e) tests with Cypress</Description>
+            <Description>- Accelerated code review process with thorough unit tests written with Jest </Description>
+            <Description>- Monitored and fixed internal ticket service bugs with LogDNA and Rollbar</Description>
+            <Description>- Only intern selected to present in front of CEO and executives</Description>
+          </ExperienceContainer>
+
+          <ExperienceContainer>
+            <CompanyName>Apple</CompanyName>
+            <Role>Software Engineer Intern, iOS Systems Experience Incubation Team</Role>
+            <Date>Mar - Jun 2021</Date>
+            <Description>- Constructed my own proof of concept for an individual prototyping project in Swift (under NDA)</Description>
+            <Description>- Used SceneKit to build a 3D prototype via computer graphics</Description>
+            <Description>- Projected objects into 3D-space using ARKit and face tracking</Description>
+            <Description>- Presented findings to directors and executives, suggesting future changes to prototype</Description>
+          </ExperienceContainer>
+
           <ExperienceContainer>
             <CompanyName>UCLA DevX</CompanyName>
             <Role>Product Manager</Role>

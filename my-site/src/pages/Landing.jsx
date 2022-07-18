@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { mediaQueries } from "../imports/media";
-const { mobile, notMobile } = mediaQueries;
+const { mobile } = mediaQueries;
 
 const Container = styled("div")`
   display: flex;

@@ -3,7 +3,7 @@ import ProjectCard from "../components/projectCard";
 import styled from "styled-components";
 import { Paperclip } from "@styled-icons/foundation/Paperclip";
 import { mediaQueries } from "../imports/media";
-const { mobile, notMobile } = mediaQueries;
+const { mobile } = mediaQueries;
 
 
 const PageTitle = styled("div")`
@@ -94,6 +94,12 @@ export default class Experience extends React.Component {
           <a href="https://drive.google.com/file/d/1bpkOmlrsFDEiU-Qy0CwvZR-T17Vs1U1R/view?usp=sharing target=_blank">
             <ResumeButton><Paperclip size="25"></Paperclip>{"  "}PDF Version</ResumeButton>
           </a >
+          <ExperienceContainer>
+            <CompanyName>Datadog</CompanyName>
+            <Role>Software Engineer Intern, Live Processes Team</Role>
+            <Date>Jun - Sep 2022</Date>
+            <Description>Currently working on some cool stuff, will be updated once my internship is done!</Description>
+          </ExperienceContainer>
           <ExperienceContainer>
             <CompanyName>Better.com</CompanyName>
             <Role>Software Engineer Intern, Internal Efficiency Team</Role>

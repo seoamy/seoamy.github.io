@@ -11,7 +11,6 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <ReactRouterGlobalHistory />
         <Navbar />
         <Switch>
           <Route exact path="/">
@@ -27,8 +26,6 @@ function App() {
         <div className="footer">Made with ♡ by Amy</div>
       </div>
     </Router>
-
-
   );
 }
 

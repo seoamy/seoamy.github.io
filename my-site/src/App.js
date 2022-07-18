@@ -9,8 +9,8 @@ import "./App.css"
 
 function App() {
   return (
-    <div className="App">
-      <Router>
+    <Router>
+      <div className="App">
         <ReactRouterGlobalHistory />
         <Navbar />
         <Switch>
@@ -24,9 +24,9 @@ function App() {
             <Projects />
           </Route>
         </Switch>
-      </Router>
-      <div className="footer">Made with ♡ by Amy</div>
-    </div>
+        <div className="footer">Made with ♡ by Amy</div>
+      </div>
+    </Router>
 
 
   );

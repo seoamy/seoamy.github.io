@@ -60,7 +60,7 @@ export default class Landing extends React.Component {
           <Heading>Hi, I'm Amy!</Heading>
           <SubHeading>Creator. Learner. Software Engineer.</SubHeading>
           <AboutMe>I'm a fourth-year computer science student at UCLA. Right now, I am interning at Datadog. I'm interested in front-end development because of how visual and creative you can be with it.</AboutMe>
-          <AboutMe>In my free time I enjoy baking, photography, and designing.</AboutMe>
+          <AboutMe>In my free time I enjoy baking baking, photography, and designing.</AboutMe>
           <AboutMe>Please feel free to contact me about anything :)</AboutMe>
         </TextContainer>
       </Container>

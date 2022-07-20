@@ -1,9 +1,10 @@
 import React from "react";
 import Navbar from "./components/Navbar";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { ReactRouterGlobalHistory } from "react-router-global-history";
 import Landing from "./pages/Landing";
 import Projects from "./pages/Projects";
-import Resume from "./pages/Resume";
+import Experience from "./pages/Experience";
 import "./App.css"
 
 function App() {
@@ -15,8 +16,8 @@ function App() {
           <Route exact path="/">
             <Landing />
           </Route>
-          <Route exact path="/resume">
-            <Resume />
+          <Route exact path="/experience">
+            <Experience />
           </Route>
           <Route exact path="/projects">
             <Projects />

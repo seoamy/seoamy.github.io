@@ -58,10 +58,10 @@ export default class Navbar extends React.Component {
             <StyledLink to="/">Home</StyledLink>
           </LinkBox>
           <LinkBox>
-            <StyledLink to="/experience">Experience</StyledLink>
+            <StyledLink to="/projects">Projects</StyledLink>
           </LinkBox>
           <LinkBox>
-            <StyledLink to="/projects">Projects</StyledLink>
+            <StyledLink to="/resume">Resume</StyledLink>
           </LinkBox>
           <LinkBox>
           </LinkBox>

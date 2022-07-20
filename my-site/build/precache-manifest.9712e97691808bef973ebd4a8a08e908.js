@@ -1,35 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5a9fadf2ccd660ea02f7af65b794148",
+    "revision": "1c8c3bdf510c7fa4a6a74d1fcea09afa",
+    "url": "/ddecc7f836da38734bef0d3d2235b938.js"
+  },
+  {
+    "revision": "ed1a291ad0de4785622e9a33ac85a5a4",
     "url": "/index.html"
   },
   {
-    "revision": "311c12bacdee630d26c1",
+    "revision": "49db11e54e765e05d0b5",
     "url": "/static/css/main.9333c468.chunk.css"
   },
   {
-    "revision": "5b6ff15eed5d00cc083e",
-    "url": "/static/js/2.717d1704.chunk.js"
+    "revision": "948c41d5afba59ff7527",
+    "url": "/static/js/2.a91ecac0.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.717d1704.chunk.js.LICENSE.txt"
+    "revision": "d75e62cb1991604f3fd94d9f3b4712d0",
+    "url": "/static/js/2.a91ecac0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "311c12bacdee630d26c1",
-    "url": "/static/js/main.5d4c1011.chunk.js"
+    "revision": "49db11e54e765e05d0b5",
+    "url": "/static/js/main.bb0cf60f.chunk.js"
   },
   {
     "revision": "c21fe37de23a3f68f6e0",
     "url": "/static/js/runtime-main.a68b0f98.js"
   },
   {
-    "revision": "ade78818cc4139cd42c4177a98521446",
-    "url": "/static/media/bruinbridge.ade78818.png"
+    "revision": "b53245a94471d8ae0435c91d847dc60e",
+    "url": "/static/media/amy_seo_resume.b53245a9.pdf"
   },
   {
-    "revision": "af7ce6150647187532b1fcbb37ef7f95",
-    "url": "/static/media/covid-stories.af7ce615.png"
+    "revision": "ade78818cc4139cd42c4177a98521446",
+    "url": "/static/media/bruinbridge.ade78818.png"
   },
   {
     "revision": "d534a43c37cfcd8846af9d1140297e80",
@@ -38,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "efc64300cfe7eb1fb0840b673d80572a",
     "url": "/static/media/email.efc64300.png"
-  },
-  {
-    "revision": "25cbab868f4cc66d0c80caba06a1dfb7",
-    "url": "/static/media/enterprise.25cbab86.png"
   },
   {
     "revision": "8f927de54490916b38439880951d5c2f",

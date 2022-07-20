@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.9333c468.chunk.css",
-    "main.js": "/static/js/main.5d4c1011.chunk.js",
-    "main.js.map": "/static/js/main.5d4c1011.chunk.js.map",
+    "main.js": "/static/js/main.bb0cf60f.chunk.js",
+    "main.js.map": "/static/js/main.bb0cf60f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a68b0f98.js",
     "runtime-main.js.map": "/static/js/runtime-main.a68b0f98.js.map",
-    "static/js/2.717d1704.chunk.js": "/static/js/2.717d1704.chunk.js",
-    "static/js/2.717d1704.chunk.js.map": "/static/js/2.717d1704.chunk.js.map",
+    "static/js/2.a91ecac0.chunk.js": "/static/js/2.a91ecac0.chunk.js",
+    "static/js/2.a91ecac0.chunk.js.map": "/static/js/2.a91ecac0.chunk.js.map",
+    "ddecc7f836da38734bef0d3d2235b938.js": "/ddecc7f836da38734bef0d3d2235b938.js",
     "index.html": "/index.html",
-    "precache-manifest.6d7be6db5f71a04a2f5d3645ba1f3d92.js": "/precache-manifest.6d7be6db5f71a04a2f5d3645ba1f3d92.js",
+    "precache-manifest.9712e97691808bef973ebd4a8a08e908.js": "/precache-manifest.9712e97691808bef973ebd4a8a08e908.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9333c468.chunk.css.map": "/static/css/main.9333c468.chunk.css.map",
-    "static/js/2.717d1704.chunk.js.LICENSE.txt": "/static/js/2.717d1704.chunk.js.LICENSE.txt",
+    "static/js/2.a91ecac0.chunk.js.LICENSE.txt": "/static/js/2.a91ecac0.chunk.js.LICENSE.txt",
+    "static/media/amy_seo_resume.pdf": "/static/media/amy_seo_resume.b53245a9.pdf",
     "static/media/bruinbridge.png": "/static/media/bruinbridge.ade78818.png",
-    "static/media/covid-stories.png": "/static/media/covid-stories.af7ce615.png",
     "static/media/delivery.png": "/static/media/delivery.d534a43c.png",
     "static/media/email.png": "/static/media/email.efc64300.png",
-    "static/media/enterprise.png": "/static/media/enterprise.25cbab86.png",
     "static/media/github.png": "/static/media/github.8f927de5.png",
     "static/media/instapark.png": "/static/media/instapark.ab15f34f.png",
     "static/media/kontagion.png": "/static/media/kontagion.f074d495.png",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a68b0f98.js",
-    "static/js/2.717d1704.chunk.js",
+    "static/js/2.a91ecac0.chunk.js",
     "static/css/main.9333c468.chunk.css",
-    "static/js/main.5d4c1011.chunk.js"
+    "static/js/main.bb0cf60f.chunk.js"
   ]
 }
